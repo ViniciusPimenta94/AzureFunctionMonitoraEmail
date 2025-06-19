@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Guiando TWM - Monitoramento de E-mail Iguatemi
 
 Este projeto implementa uma **Azure Function** escrita em C# para monitorar uma caixa de e-mail específica do Iguatemi, processar anexos de faturas recebidas e realizar integração com o sistema TWM.
@@ -55,6 +56,10 @@ func start
 ## 📄 Licença
 
 MIT
+=======
+# AzureFunctionMonitoraEmail
+Azure Function em C# responsável por monitorar uma caixa de e-mail, extrair anexos de faturas e integrá-los ao sistema TWM de forma automática e segura.
+>>>>>>> 1f2d8805263a72a6b618fe90ee83e000f0ef2020
 =======
 # AzureFunctionMonitoraEmail
 Azure Function em C# responsável por monitorar uma caixa de e-mail, extrair anexos de faturas e integrá-los ao sistema TWM de forma automática e segura.

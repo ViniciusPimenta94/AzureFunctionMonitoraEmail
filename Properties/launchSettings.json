@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Guiando.TWM.Integrador.Iguatemi.MonitoraEmail": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7007",
+      "launchBrowser": false
+    }
+  }
+}

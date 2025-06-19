@@ -1,0 +1,49 @@
+
+# =============================
+# Ignorar configurações locais
+# =============================
+local.settings.json
+*.user
+*.suo
+
+# =============================
+# Build e artefatos temporários
+# =============================
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.zip
+*.vspscc
+*.vssscc
+
+# =============================
+# Configurações do VS Code e IDEs
+# =============================
+.vscode/
+.idea/
+*.csproj.user
+
+# =============================
+# Diretórios do Git
+# =============================
+*.orig
+*.rej
+*.bak
+*.tmp
+
+# =============================
+# Outros arquivos desnecessários
+# =============================
+*.db
+*.sqlite
+*.db3
+*.mdf
+*.log
+*.docx
+*.xlsx
+*.pdf

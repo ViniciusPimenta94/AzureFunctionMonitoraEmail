@@ -20,7 +20,6 @@ Este projeto implementa uma **Azure Function** escrita em C# para monitorar uma 
 - `host.json`: Configuração padrão de host do Azure Functions.
 - `local.settings.json`: Contém as variáveis de ambiente usadas localmente.
 - `*.csproj`: Arquivo de definição do projeto com dependências NuGet.
-- `.git/`: Diretório com metadados do repositório Git.
 
 ---
 
